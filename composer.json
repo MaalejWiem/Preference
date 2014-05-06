@@ -1,0 +1,13 @@
+{
+	"name" : "aip/preference-bundle",
+	"type" : "claroline-plugin",
+	"require" : {
+		"claroline/core-bundle" : "~2.0"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Aip\\Preferencebundle" : ""
+		}
+	},
+	"target-dir" : "Aip/PreferenceBundle"
+}
